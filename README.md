@@ -7,7 +7,7 @@ Native esm lit example.
 - Clone repository.
 - `npm i`
 - `npm start`
-- Open `http://localhost:3000/` in a browser compatible with import maps.
+- Open `http://localhost:3000/` in a browser [compatible with import maps](https://caniuse.com/import-maps).
 
 ## License
 
