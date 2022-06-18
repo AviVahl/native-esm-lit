@@ -13,13 +13,13 @@
     "start": "serve"
   },
   "dependencies": {
-    "lit": "^2.2.5",
+    "lit": "^2.2.6",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
     "serve": "^13.0.2",
-    "typescript": "~4.7.3"
+    "typescript": "~4.7.4"
   },
   "repository": {
     "type": "git",
