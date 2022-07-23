@@ -13,7 +13,7 @@
     "start": "serve"
   },
   "dependencies": {
-    "lit": "^2.2.7",
+    "lit": "^2.2.8",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
