@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "lit": "^2.4.0",
-    "tslib": "^2.4.0"
+    "tslib": "^2.4.1"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
