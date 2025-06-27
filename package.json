@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "express": "^5.1.0",
-    "prettier": "^3.6.1",
+    "prettier": "^3.6.2",
     "typescript": "~5.8.3"
   },
   "repository": {
